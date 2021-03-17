@@ -1,2 +1,1 @@
-Hello Hexlet!
-A new line's added to the file
+Hello, Hexlet!
